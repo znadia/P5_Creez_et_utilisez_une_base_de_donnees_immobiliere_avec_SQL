@@ -1,5 +1,7 @@
 # P5 Créez et utilisez une base de données immobilière avec SQL
 
+L’entreprise et les données sont fictives
+
 ## Contexte
 
 Laplace Immo est un réseau national d'agences immobilières. Dans le cadre du projet DATAImmo, l'entreprise veut mieux comprendre le marché pour prévoir le prix de vente des biens.
